@@ -1,24 +1,26 @@
-# 05 Updating ReadMe in the morning
-
 ## Harvey Work Day Planner
 Are you tired of post it notes to remind you of important meetings or appointments during the workday?
 
-The Harvey Work Day Planner will keep you focused on your 9am-5pm work hour. When you schedule that appointment or assigned a deadline add it to the 1 hour slot 
+The Harvey Work Day Planner will keep you focused on your 9am-5pm work hour. Each day your calendar will update with the current date. When you schedule that appointment or when you're assigned a deadline add it to the 1 hour slot. 
+<img src="ReadMeImages/Calendar">
+If you have an appointment currently scheduled the time slot will appear in RED
+If you have an appointment scheduled in the future the time slot will appear in GREEN
+If you have an appointment scheduled in the past the time slot will appear in Gray
+<img src="ReadMeImages/WrittenAppointments.PNG">
 
-A game for the know it all. Test your general knowledge with this 5-question timed quiz. Sounds easy? Give it a try. 
+If you click the SAVE button and then refresh all of your appointments will be saved for the current browser session and appear even if you close out the browser window. Give it a try!
+<img src="ReadMeImages/SaveButton">
 
-This competitive quiz allows you to jump in and play or take a look at the highScores of those who have played before you.
-
-Once you start the game there is no turning back. The clock starts immediately and you have 1-minute to get though this General Knowledge Quiz. Each correct answer you will receive points added to your score. Each incorrect answer will not only reduce your score it will reduce the time on the clock.
 
 ## Why should you use the Harvey Work Day Planner?
-To test your general knowledge. Questions are randomly generated which allows the user to play again and again and again. 
+Let this application keep you focused on the daily tasks at hand and save your progress to look back at how far you have come in your 8 hours of work. 
 
 
 ## Features
-Randomly generated questions to ensure you don't stay bored for long.
+Ability to type, save, and refresh without losing track of your appointments 
 
-<img src="ReadMeImages/calendar">
+<img src="ReadMeImages/SaveButton">
+<img src="ReadMeImages/Calendar">
 <img src="ReadMeImages/WrittenAppointments.PNG">
 
 
