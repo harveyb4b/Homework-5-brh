@@ -2,14 +2,14 @@
 Are you tired of post it notes to remind you of important meetings or appointments during the workday?
 
 The Harvey Work Day Planner will keep you focused on your 9am-5pm work hour. Each day your calendar will update with the current date. When you schedule that appointment or when you're assigned a deadline add it to the 1 hour slot. 
-<img src="ReadMeImages/Calendar">
+<img src="ReadMeImages/Calendar.PNG">
 If you have an appointment currently scheduled the time slot will appear in RED
 If you have an appointment scheduled in the future the time slot will appear in GREEN
 If you have an appointment scheduled in the past the time slot will appear in Gray
 <img src="ReadMeImages/WrittenAppointments.PNG">
 
 If you click the SAVE button and then refresh all of your appointments will be saved for the current browser session and appear even if you close out the browser window. Give it a try!
-<img src="ReadMeImages/SaveButton">
+<img src="ReadMeImages/SaveButton.PNG">
 
 
 ## Why should you use the Harvey Work Day Planner?
