@@ -19,8 +19,8 @@ Let this application keep you focused on the daily tasks at hand and save your p
 ## Features
 Ability to type, save, and refresh without losing track of your appointments 
 
-<img src="ReadMeImages/SaveButton">
-<img src="ReadMeImages/Calendar">
+<img src="ReadMeImages/SaveButton.PNG">
+<img src="ReadMeImages/Calendar.PNG">
 <img src="ReadMeImages/WrittenAppointments.PNG">
 
 
